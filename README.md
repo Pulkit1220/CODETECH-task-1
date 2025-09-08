@@ -35,6 +35,4 @@ It serves as a beginner-friendly mini-project for understanding **C language fil
 - Append new content without overwriting  
 - Display final file content  
 
----
 
-## 📂 Project Structure
